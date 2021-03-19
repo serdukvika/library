@@ -1,0 +1,43 @@
+[
+  {
+    "id": 1,
+    "category": "Детективы",
+    "price": "$13.99",
+    "stocked": true,
+    "name": "iPhone",
+    "author": "Есть в наличии",
+    "imageCover": "https://stylus.ua/thumbs/568x568/f6/f7/839775.jpeg",
+    "count": 1
+  },
+  {
+    "id": 2,
+    "category": "Детективы",
+    "price": "$15.99",
+    "stocked": true,
+    "name": "Samsung",
+    "author": "Есть в наличии",
+    "imageCover": "https://i2.rozetka.ua/goods/17536711/samsung_sm_a315fzkusek_images_17536711927.jpg",
+    "count": 1
+  },
+  {
+    "id": 3,
+    "category": "Детективы",
+    "price": "$19.99",
+    "stocked": false,
+    "name": "Xiaomi",
+    "author": "Нет в наличии",
+    "imageCover": "https://avatars.mds.yandex.net/get-mpic/1538707/img_id8188079747652930617.png/9hq",
+    "count": 1
+  },
+  {
+    "id": 4,
+    "category": "Фантастика",
+    "price": "$29.99",
+    "stocked": true,
+    "name": "Meizu",
+    "author": "Есть в наличии",
+    "imageCover": "https://img.gkbcdn.com/p/2019-08-29/meizu-16s-pro-6-2-inch-smartphone-8gb-256gb-gradient-white-1571993860141._w500_.jpg",
+    "count": 1
+  }
+  
+]
